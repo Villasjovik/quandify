@@ -1,0 +1,9 @@
+{
+  "svgPath": "quandify.svg",
+  "svgFilename": "quandify.svg",
+  "brandColor": "#f2ede4",
+  "tone": "neutral",
+  "motion": "float-spin",
+  "rotateSpeed": 0.3,
+  "source": "https://quandify.com/cdn/shop/files/Quandify_logo-01.png"
+}
